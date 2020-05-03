@@ -3,9 +3,9 @@
 A TODO List flutter Project
 
 ## Demonstration Images
-![](/demonstration_images/image1.jpeg)
-![](/demonstration_images/image2.jpeg)
-![](/demonstration_images/image3.jpeg)
+|-------------------------------------------------------------------------------|
+|![](/demonstration_images/image1.jpeg)|![](/demonstration_images/image2.jpeg)|
+|![](/demonstration_images/image3.jpeg)|
 
 ## Getting Started
 
